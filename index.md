@@ -45,7 +45,7 @@ active location services.
 
 * * *
 
-[**+Apps**](https://apps4av.net/site/apps/ "+Apps") - Starting in 2018 Apps4Av is releasing new Android apps useful for anyone but not specifically designed for aviators. To learn more, [**Click here.**](https://apps4av.net/site/apps/ "+Apps")
+[**Apps**](https://apps4av.net/site/apps/ "+Apps") - Starting in 2018 Apps4Av is releasing new Android apps useful for anyone but not specifically designed for aviators. To learn more, [**Click here.**](https://apps4av.net/site/apps/ "+Apps")
 
 **Older Apps** (most features now included in Avare):
 
