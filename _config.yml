@@ -21,7 +21,7 @@
 title: Apps4Av
 email: # your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  We are pilots dedicated to providing aviation apps that are simple to use, making flying more safe,  fun and affordable.
+  We are pilots dedicated to providing aviation apps that are simple to use, making flying more safe, fun and affordable.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: # jekyllrb
