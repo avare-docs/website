@@ -2,6 +2,7 @@
 title: FAQ
 date: 2013-10-02
 layout: page
+permalink: /faq.html
 ---
 
 ## Frequently Asked Questions (FAQ)

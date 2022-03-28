@@ -61,12 +61,13 @@ and join the conversation.
 **About making a financial donation towards our expenses**
 
 To learn more about contributing funds and how we use them, visit our
-[**About Donations**](https://apps4av.net/site/about-2/about-donations/ "About Donations") 
-page. To save time and simply donate now, please use the **_Paypal_**
-secure **Donate** buttons built right into the Avare app. Just ensure
-that your Avare device is online, launch Avare, tap the **Map** tab,
-then the **Menu** button, then the **Help** button.The two donate
-buttons are at the bottom of that screen.
+[**About Donations**](/donate.html "About Donations") page. To save
+time and simply donate now, please use the **_Paypal_** secure
+**Donate** buttons built right into the Avare app or at
+[this site](/donate.html). Just ensure that your Avare device is online,
+launch Avare, tap the **Map** tab, then the **Menu** button, then the
+**Help** button.The two donate buttons are at the bottom of that
+screen.
 
 While we are an all-volunteer group, in order to provide the
 protections and benefits of non-profit status for our users the Avare

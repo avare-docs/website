@@ -2,6 +2,7 @@
 title: "Help"
 date: "2012-09-18"
 layout: page
+permalink: /help.html
 ---
 
 For a written introduction to launching Avare (pronounced **ə-ˈver** – sounds like “ah**v**air” – think “aware” with a V), please _**begin with the Help feature included in the Avare app**_ (tap the Map tab, then the Menu button above it). If a picture is worth 1,000 words a video might be even better, so many users prefer our Apps4Av [YouTube Channel](https://www.youtube.com/channel/UC0OSj8qmkSg01DIilEzxHGg "Avare YouTube Channel").  If you like to save time by skimming a summary of the most common questions people have about Avare, check out our [**FAQ**](https://apps4av.net/site/avare-overview/avare-%e2%80%a2-faq/ "Avare • FAQ") page. For more Help and info on the latest features, or to help us and other users by sharing your tips and tricks or questions and requests please visit our [Forum](https://groups.google.com/forum/#!forum/apps4av-forum "Apps4Av Forum"). **Note** that all of our apps have been thoroughly tested and are used routinely on a vast array of devices, so if you should encounter any problems please read Help and see the Troubleshooting section on this page and then contact us on our [Forum](https://groups.google.com/d/forum/apps4av-forum "Apps4Av Forum") so that everyone can benefit from your experience.

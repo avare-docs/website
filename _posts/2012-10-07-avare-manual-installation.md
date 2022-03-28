@@ -2,6 +2,7 @@
 title: Manual Install
 date: 2012-10-07
 layout: post
+permalink: /manual-installation.html
 ---
 
 These directions are for **manually** installing the current version

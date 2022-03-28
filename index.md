@@ -1,7 +1,7 @@
 ---
 title: Apps For Aviators
 layout: home
-date: "2012-09-17"
+date: 2022-03-28
 ---
 
 ## Welcome
@@ -18,14 +18,14 @@ encounter any problems please contact us on our
 so that everyone can benefit from awareness of the problem and
 solutions._
 
-[**Avare**](https://apps4av.net/site/avare-overview/ "Avare") provides
-GPS active location on all FAA charts, Airport Diagrams and Approach
-Plates; along with CS (AF/D), weather & TFRs, Flight Plans and much
-more. Internet is only required for installing or updating the free
-app and free FAA resources - ground planning and in-flight operations
-work fine offline, even in "Airplane Mode" for maximum battery
-life. GPS (internal or external to the Android device) of course is
-required for active location services.
+[**Avare**](/overview.html "Avare") provides GPS active location on
+all FAA charts, Airport Diagrams and Approach Plates; along with CS
+(AF/D), weather & TFRs, Flight Plans and much more. Internet is only
+required for installing or updating the free app and free FAA
+resources - ground planning and in-flight operations work fine
+offline, even in "Airplane Mode" for maximum battery life. GPS
+(internal or external to the Android device) of course is required for
+active location services.
 
 ## Resources
 <!--\[caption id="attachment\_69936" align="alignnone" width="640"\][![Offline Planning](images/OfflinePlanning.jpg)](images/2012/09/OfflinePlanning.jpg) Map screen during offline ground planning on a phone (Airplane Mode, GPS off, Avare v8.1.2).\[/caption\]-->
