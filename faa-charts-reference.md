@@ -35,7 +35,7 @@ not updated.**
 
 ## EHUS (Note: Avare area division not shown)
 
-![](images/High_Index_US_new.gif)
+![](images/High_Index_US_new.webp)
 
 ## Canada Topo Grid
 
