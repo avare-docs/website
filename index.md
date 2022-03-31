@@ -2,7 +2,12 @@
 title: Apps For Aviators
 layout: home
 date: 2022-03-28
-tags: 
+tags:
+sec: images/Screenshot_20220330-sec-phone
+tac: images/Screenshot_20220330-tac-phone
+fly: images/Screenshot_20220330-fly-phone
+ifr: images/Screenshot_20220330-ifr-phone
+plt: images/Screenshot_20220330-plt-phone
 ---
 <img src="images/apps4av-header.jpg" style="width: 100%;">
 
@@ -21,19 +26,7 @@ Avare provides GPS active location on all FAA charts, Airport Diagrams
 and Approach Plates; along with CS (AF/D), weather & TFRs, Flight
 Plans and much more.
 
-<style>
-  .bm {
-  margin-bottom: 3mm;
-  }
-</style>
-<div style="text-align: center">
-  <img src="images/Screenshot_20220330-235229.webp" class="bm" style="width: 32%;">
-  <img src="images/Screenshot_20220330-235013.webp" class="bm" style="width: 32%;">
-  <img src="images/Screenshot_20220330-235118.webp" class="bm" style="width: 32%;">
-  <br>
-  <img src="images/Screenshot_20220330-235056.webp" class="bm" style="width: 32%;">
-  <img src="images/Screenshot_20220330-235753.webp" class="bm" style="width: 32%;">
-</div>
+{% include phone_images.html %}
 
 -   Internet is only required for installing or updating the free app
 	and free FAA resources
