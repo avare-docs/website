@@ -17,10 +17,11 @@ contact us about adding their devices.
 
 ## External GPS/ADSB known to Compatible with Avare
 
--   Stratu**x** open source receiver (Port 4000)
--   *Stratu**S** (Recent) receivers _may work_
+-   Stratu*x* open source receiver (Port 4000)
+-   Stratu*s* (Recent) receivers _may work_
 -   Dual XGPS-170 & XGPS-150
 -   iLevil SW
+-   Lynx NGT-9000
 -   Freeflight Systems FDL-978-XVR (Panel installed)
 -   Freeflight Systems Explorer-
 -   Skyradar DX
