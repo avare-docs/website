@@ -131,7 +131,7 @@ format.
 
 -->
 
-Additional videos are available on [**YouTube Channel**](https://www.youtube.com/channel/UC0OSj8qmkSg01DIilEzxHGg "Avare Videos").
+Additional videos are available on our [**YouTube Channel**](https://www.youtube.com/channel/UC0OSj8qmkSg01DIilEzxHGg "Avare Videos").
 
 * * *
 
