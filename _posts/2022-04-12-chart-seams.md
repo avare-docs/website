@@ -11,8 +11,8 @@ permalink: /chart-seams.html
 ---
 
 Avare's charts are based on FAA charts. The charts distributed by the
-FAA are based on a legacy system that is still be printed on paper for
-sale to pilots! However, the FAA is also distributing them in a
+FAA are based on a legacy system that is still being printed on paper
+for sale to pilots! However, the FAA is also distributing them in a
 digital form with metadata allowing them to be associated with GPS
 coordinates.  **This is why creating Avare is possible!**
 
