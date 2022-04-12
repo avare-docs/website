@@ -2,6 +2,7 @@
 title: "FAA Charts Reference"
 date: "2015-06-21"
 layout: page
+permalinK: /faa-charts-reference.html
 ---
 
 # FAA Charts Reference
@@ -19,23 +20,23 @@ not updated.**
 
 ## Sectionals and TACs
 
-![](images/FAA_Sect.jpg)
+![](/images/FAA_Sect.jpg)
 
 ## WACs
 
-![](images/FAA_WAC_index.jpg)
+![](/images/FAA_WAC_index.jpg)
 
 ## A/FD
 
-![](images/AFD_Index.jpg)
+![](/images/AFD_Index.jpg)
 
 ## ELUS (Note: Avare area division not shown)
 
-![](images/Low_Index_US.jpg)
+![](/images/Low_Index_US.jpg)
 
 ## EHUS (Note: Avare area division not shown)
 
-![](images/High_Index_US_new.webp)
+![](/images/High_Index_US_new.webp)
 
 ## Canada Topo Grid
 
@@ -49,6 +50,6 @@ To fly Avare in Canada as of this writing (October 8, 2014), be sure you go to M
 
 In the current version of Avare, you might encounter some difficulty in switching between U.S. charts and Canadian Topo. If so, it might help to use Simulation mode if your current position is not in Canada. If that does not help you might also Exit and restart Avare. We very much want to improve and add more Canadian capabilities in Avare, but receive very little feedback and few inquiries. If you fly Avare in Canada or would like to, please contact us on our Forum.
 
-[![Grid of Canadian Aviation Maps](images/canada_grid.jpg)](https://i1.wp.com/mamba.dreamhosters.com/new/canada_grid.jpg)
+[![Grid of Canadian Aviation Maps](/images/canada_grid.jpg)](https://i1.wp.com/mamba.dreamhosters.com/new/canada_grid.jpg)
 
 Click the image to open larger version in a new window
