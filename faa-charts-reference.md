@@ -20,9 +20,10 @@ not updated.**
 
 ## Sectionals and TACs
 
-![](/images/FAA_Sect.jpg)
+![FAA Sectional Chart Index US Contiguous](/images/FAA_SectUS_Lrg.webp)
+![FAA Sectional Chart Index Alaska       ](/images/FAA_SectAK_Lrg.webp)
 
-## WACs
+## WACs (Expired!)
 
 ![](/images/FAA_WAC_index.jpg)
 

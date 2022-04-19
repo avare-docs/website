@@ -29,7 +29,8 @@ cycle](https://www.aopa.org/news-and-media/all-news/2021/february/17/vfr-charts-
 is assembled from 61
 [raster](https://en.wikipedia.org/wiki/Raster_graphics) images. 
 
-![](/images/FAA_Sect.jpg)
+![FAA Sectional Chart Index US Contiguous](/images/FAA_SectUS_Lrg.webp)
+![FAA Sectional Chart Index Alaska       ](/images/FAA_SectAK_Lrg.webp)
 
 Though raster images are conceptually "simple" to crop, trim, and
 orient, this simplicity comes at a cost. **The actual aviation data
