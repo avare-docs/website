@@ -9,6 +9,7 @@ permalinK: /faa-charts-reference.html
 
 For current and accurate FAA chart maps, please visit this FAA
 website: [Online FAA Chart Maps](http://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/ "FAA Chart Maps")
+*Avare uses modified versions of the above official current FAA charts to provide the best balance between file size and readability at maximum zoom on the most common Android devices used by aviators. Due to FAA chart changes, Avare's charts may occasionally need manual adjustment of the places where those FAA charts overlap. If you notice missing information (e.g. airport text info) on a chart, please report it on the Forum so we can fix it for the next Avare chart update. Keep in mind that you can always find such missing info by downloading the large original FAA chart or simply looking it up in Avare's csup regional Download (e.g. NE, SW, etc.).
 
 **Note:** Under the Downloads list on the FAA website, select the
 chart type for which you'd like to see a map legend. For example, to
