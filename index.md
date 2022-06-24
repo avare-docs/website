@@ -41,10 +41,10 @@ Plans and much more.
 
 -   To see videos about Avare, please visit our 
 	[**YouTube Channel**](https://www.youtube.com/channel/UC0OSj8qmkSg01DIilEzxHGg "Avare Videos")
--   To visit the [**Google Play Store**](https://play.google.com/store/apps/details?id=com.ds.avare "Avare page on Google Play Store")
+-   Visit the [**Google Play Store**](https://play.google.com/store/apps/details?id=com.ds.avare "Avare page on Google Play Store")
 	to read reviews and install the software
 -   Visit our
-	[Forum](https://groups.google.com/d/forum/apps4av-forum "Apps4Av Forum")
+	[**Forum**](https://groups.google.com/d/forum/apps4av-forum "Apps4Av Forum")
 	to see the latest news, feature requests, and discussion
 
 * * *
