@@ -105,6 +105,7 @@ complete Avare source code is available on
 [Github](https://github.com/about "About GitHub") at this URL:
 [http://github.com/apps4av/avare](http://github.com/apps4av/avare "Avare on GitHub")
 
+
 As part of our mission to provide affordable resources for aviators,
 we're actively developing ADS-B solutions for Avare. You can help by
 **loaning or donating** an ADS-B receiver so that we can add it to the
