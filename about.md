@@ -42,23 +42,21 @@ Over the years, major contributors on our team have included:
 - **Financial Donors** who cover expenses for supplies, etc.
 - **Board Members** who monitor everything & maintain our non-profit status.
 
-#### **About Avare's History**
-In 2014 the code had been developed to enable free geo-referenced FAA
-Plates for IFR situational awareness. The initial work of manually tagging and
-verifying coordinate points on the Plates was then taken on by a large
-group of volunteers. For ongoing semi-automated maintenance and updating of the
-Plates, volunteers include: **Clyde C, Ingo N, Joe L, Kendell B, Peter
-G, Ron W, Stuart D, Tal R, TV, Frank S, Domenic P, and Zubair K**.
-
-So far all contributors are aviators, and working as volunteers
-donating their efforts to the Aviation and Android communities.
+In 2014, code had been developed to enable free geo-referenced FAA
+Plates for IFR situational awareness. The initial work of manually
+tagging and verifying coordinate points on the Plates was then taken
+on by a **large group of volunteers**, too many to name
+individually. Subsequently, the FAA began tagging plates for most
+public airports and these FAA geo-referenced plates are now
+included. (Plates for air force bases are generally not tagged by the
+FAA.)
 
 #### **About joining us**
 We invite you to join the aviators and others supporting our free apps
 with their time, expertise and financial contributions. To offer your
 help with coding, publicity, or anything else please subscribe to our
-[**Forum**](https://groups.google.com/d/forum/apps4av-forum "Apps4Av Forum on Google Groups") 
-and join the conversation.
+[**Forum**](https://groups.google.com/d/forum/apps4av-forum "Apps4Av
+Forum on Google Groups") and join the conversation.
 
 Please contact us on our
 [**Forum**](https://groups.google.com/forum/#!forum/apps4av-forum) if
