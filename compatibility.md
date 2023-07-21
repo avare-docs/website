@@ -4,6 +4,7 @@ date: 2022-07-07
 layout: page
 author: Community
 editor: Peter A. Gustafson
+permalink: /compatibility.html
 ---
 
 Below is an incomplete list of external GPS & ADSB devices known to be
